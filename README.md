@@ -1,6 +1,8 @@
 
 ### student in nctu/nycu
 ### founder of new nctuplus https://nctuplus.hopto.org/
+    1. backend engineer
+    2. devop
 <!--
 **mo11om/mo11om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
