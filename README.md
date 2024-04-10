@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## student in nctu/nycu
+## founder of new nctuplus https://nctuplus.hopto.org/
 <!--
 **mo11om/mo11om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
