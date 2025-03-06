@@ -1,6 +1,6 @@
 
 ### student in nctu/nycu
-### founder of new nctuplus https://nctuplus.hopto.org/
+### founder of new nctuplus http://nctuplus.hopto.org/
     1. backend engineer
     2. devop
 <!--
