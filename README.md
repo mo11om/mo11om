@@ -1,5 +1,11 @@
 
-### student in nctu/nycu
+### National Taiwan University (NTU), Taipei, Taiwan                                                                            
+#### Master of Science (Major: Graduate Institute of Information Management)
+### National Chiao Tung University (NCTU), Hsinchu, Taiwan                                                                          
+#### Bachelor of Science (Major: Computer Science ) 
+#### Bachelor of Science (Major: Information Management and finance)
+
+                                                                  
 ### founder of new nctuplus http://nctuplus.hopto.org/
     1. backend engineer
     2. devop
