@@ -1,6 +1,6 @@
 
 ### National Taiwan University (NTU), Taipei, Taiwan                                                                            
-#### Master of Science (Major: Graduate Institute of Information Management)
+#### Master of Management (Major: Graduate Institute of Information Management)
 ### National Chiao Tung University (NCTU), Hsinchu, Taiwan                                                                          
 #### Bachelor of Science (Major: Computer Science ) 
 #### Bachelor of Science (Major: Information Management and finance)
