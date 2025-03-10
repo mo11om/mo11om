@@ -6,9 +6,10 @@
 #### Bachelor of Science (Major: Information Management and finance)
 
                                                                   
-### founder of new nctuplus http://nctuplus.hopto.org/
+### co-founder of new nctuplus http://nctuplus.hopto.org/
     1. backend engineer
     2. devop
+    3. ai engineer
 <!--
 **mo11om/mo11om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
